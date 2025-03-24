@@ -1,3 +1,4 @@
+```sql
 -- Lv.1
 -- Python 개발자 찾기
 
@@ -15,3 +16,4 @@ WHERE
 ORDER BY
     ID
 ;
+```
